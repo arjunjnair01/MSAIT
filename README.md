@@ -1,7 +1,5 @@
 # AI-Powered Meeting Summarizer & Action Tracker
 
-![Landing Page](samples/1.png)
-![Meeting Details](samples/2.png)
 
 ## Overview
 
